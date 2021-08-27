@@ -1,4 +1,4 @@
 # RS485_Wind_Direction_Transmitter_SKU_SEN0482
-Example code for wind direction sensor with arduino.
+Example code and library for wind direction sensor with arduino.
 
-Require RS485 sheild to interface between arduino and sensor.
+Requires RS485 sheild to interface between arduino and sensor.
