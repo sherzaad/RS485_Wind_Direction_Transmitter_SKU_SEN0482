@@ -1,0 +1,1 @@
+# RS485_Wind_Direction_Transmitter_SKU_SEN0482
